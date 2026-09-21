@@ -1,0 +1,13 @@
+{
+  // No autocomplete while learning: type everything by hand.
+  "[python]": {
+    "editor.quickSuggestions": { "other": "off", "comments": "off", "strings": "off" },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.snippetSuggestions": "none",
+    "editor.tabCompletion": "off",
+    "editor.inlineSuggest.enabled": false
+  },
+  "github.copilot.enable": { "python": false },
+  "github.copilot.nextEditSuggestions.enabled": false
+}
