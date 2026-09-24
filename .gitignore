@@ -1,1 +1,31 @@
+# Personal roadmap, kept local
 ROADMAP.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Environments and notebooks
+.ipynb_checkpoints/
+.python-version
+
+# Training artifacts
+weights/
+checkpoints/
+*.pt
+*.pth
+*.safetensors
+runs/
+wandb/
+tokenizer_*.json
+
+# Datasets
+data/
+datasets/
+
+# macOS
+.DS_Store
