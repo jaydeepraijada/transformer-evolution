@@ -1,0 +1,10 @@
+# Python 3.12. Setup:
+#   uv venv --python 3.12 .venv && uv pip install --python .venv/bin/python -r requirements.txt
+# (or: python3.12 -m venv .venv && .venv/bin/pip install -r requirements.txt)
+
+torch==2.15.0
+datasets==5.2.0       # loads Helsinki-NLP/opus_books
+tokenizers==0.23.3    # WordLevel tokenizers
+tqdm==4.70.1          # training progress bar
+tensorboard==2.21.0   # SummaryWriter logs
+matplotlib==3.11.2    # smoke_run.py plots
