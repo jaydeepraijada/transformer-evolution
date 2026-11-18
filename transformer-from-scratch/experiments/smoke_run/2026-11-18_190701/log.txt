@@ -1,0 +1,61 @@
+Smoke run 2026-11-18_190701  ->  /Users/comprint/Desktop/transformer-evolution/transformer-from-scratch/experiments/smoke_run/2026-11-18_190701
+Using device mps
+100 pairs, seq_len 32, vocab src 15698 tgt 22463, label-smoothing loss floor 1.327
+
+=== paper (paper_lr + post-norm) ===
+  75.2M parameters
+  step   200  train 7.512  eval-ce 7.0803  acc   6.6%  lr 3.49e-05  (24s)
+  step   400  train 5.815  eval-ce 4.9587  acc  18.1%  lr 6.99e-05  (47s)
+  step   600  train 4.754  eval-ce 3.6865  acc  24.9%  lr 1.05e-04  (71s)
+  step   800  train 3.586  eval-ce 2.6153  acc  32.6%  lr 1.40e-04  (94s)
+  step  1000  train 3.064  eval-ce 1.9016  acc  44.1%  lr 1.75e-04  (117s)
+  step  1200  train 2.728  eval-ce 1.3184  acc  58.9%  lr 2.10e-04  (141s)
+  step  1400  train 2.037  eval-ce 0.9050  acc  73.0%  lr 2.45e-04  (164s)
+  step  1600  train 1.753  eval-ce 0.3938  acc  90.4%  lr 2.80e-04  (187s)
+  step  1800  train 1.629  eval-ce 0.1866  acc  96.6%  lr 3.14e-04  (211s)
+  step  2000  train 1.544  eval-ce 0.1603  acc  97.0%  lr 3.49e-04  (234s)
+  done in 234s  final eval-ce 0.1603  acc 97.0%  greedy exact match 72/100
+
+=== fixed_lr + post-norm ===
+  75.2M parameters
+  step   200  train 6.015  eval-ce 5.2860  acc   8.4%  lr 1.00e-04  (24s)
+  step   400  train 5.415  eval-ce 4.5022  acc  15.9%  lr 1.00e-04  (48s)
+  step   600  train 4.720  eval-ce 3.5884  acc  23.0%  lr 1.00e-04  (71s)
+  step   800  train 3.707  eval-ce 2.8279  acc  30.3%  lr 1.00e-04  (95s)
+  step  1000  train 3.448  eval-ce 2.3174  acc  35.8%  lr 1.00e-04  (120s)
+  step  1200  train 3.062  eval-ce 1.8397  acc  44.8%  lr 1.00e-04  (144s)
+  step  1400  train 2.484  eval-ce 1.5217  acc  52.6%  lr 1.00e-04  (169s)
+  step  1600  train 2.554  eval-ce 1.2381  acc  58.3%  lr 1.00e-04  (193s)
+  step  1800  train 2.391  eval-ce 0.9938  acc  66.0%  lr 1.00e-04  (217s)
+  step  2000  train 2.127  eval-ce 0.8115  acc  73.5%  lr 1.00e-04  (240s)
+  done in 240s  final eval-ce 0.8115  acc 73.5%  greedy exact match 19/100
+
+=== paper_lr + pre-norm ===
+  75.2M parameters
+  step   200  train 7.437  eval-ce 7.0078  acc   8.8%  lr 3.49e-05  (25s)
+  step   400  train 5.453  eval-ce 4.5699  acc  24.2%  lr 6.99e-05  (50s)
+  step   600  train 4.011  eval-ce 2.7428  acc  43.4%  lr 1.05e-04  (73s)
+  step   800  train 2.297  eval-ce 0.9897  acc  91.7%  lr 1.40e-04  (98s)
+  step  1000  train 1.559  eval-ce 0.1745  acc  99.9%  lr 1.75e-04  (122s)
+  step  1200  train 1.389  eval-ce 0.0787  acc 100.0%  lr 2.10e-04  (146s)
+  step  1400  train 1.399  eval-ce 0.0591  acc  99.9%  lr 2.45e-04  (170s)
+  step  1600  train 1.362  eval-ce 0.0747  acc  99.9%  lr 2.80e-04  (194s)
+  step  1800  train 1.366  eval-ce 0.0626  acc  99.9%  lr 3.14e-04  (218s)
+  step  2000  train 1.404  eval-ce 0.0831  acc  99.7%  lr 3.49e-04  (243s)
+  done in 243s  final eval-ce 0.0831  acc 99.7%  greedy exact match 96/100
+
+=== fixed_lr + pre-norm (ours) ===
+  75.2M parameters
+  step   200  train 5.249  eval-ce 4.3533  acc  25.8%  lr 1.00e-04  (24s)
+  step   400  train 3.448  eval-ce 2.1156  acc  61.2%  lr 1.00e-04  (48s)
+  step   600  train 2.159  eval-ce 0.7322  acc  96.1%  lr 1.00e-04  (72s)
+  step   800  train 1.570  eval-ce 0.2345  acc  99.9%  lr 1.00e-04  (96s)
+  step  1000  train 1.428  eval-ce 0.1125  acc 100.0%  lr 1.00e-04  (119s)
+  step  1200  train 1.386  eval-ce 0.0789  acc 100.0%  lr 1.00e-04  (143s)
+  step  1400  train 1.360  eval-ce 0.0713  acc 100.0%  lr 1.00e-04  (166s)
+  step  1600  train 1.351  eval-ce 0.0610  acc 100.0%  lr 1.00e-04  (190s)
+  step  1800  train 1.350  eval-ce 0.0578  acc 100.0%  lr 1.00e-04  (213s)
+  step  2000  train 1.342  eval-ce 0.0544  acc 100.0%  lr 1.00e-04  (237s)
+  done in 237s  final eval-ce 0.0544  acc 100.0%  greedy exact match 100/100
+
+Saved everything to /Users/comprint/Desktop/transformer-evolution/transformer-from-scratch/experiments/smoke_run/2026-11-18_190701

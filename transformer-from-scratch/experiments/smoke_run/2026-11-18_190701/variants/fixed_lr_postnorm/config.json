@@ -1,0 +1,57 @@
+{
+  "name": "fixed_lr + post-norm",
+  "overrides": {
+    "use_paper_lr_schedule": false,
+    "pre_norm": false
+  },
+  "config": {
+    "batch_size": 10,
+    "num_epochs": null,
+    "lr": 0.0001,
+    "use_paper_lr_schedule": false,
+    "warmup_steps": 4000,
+    "pre_norm": false,
+    "seq_len": 32,
+    "d_model": 512,
+    "lang_src": "en",
+    "lang_tgt": "it",
+    "model_folder": "weights",
+    "model_basename": "tmodel_",
+    "preload": null,
+    "tokenizer_file": "tokenizer_{0}.json",
+    "experiment_name": "runs/tmodel"
+  },
+  "model": {
+    "d_model": 512,
+    "N": 6,
+    "h": 8,
+    "dropout": 0.1,
+    "d_ff": 2048,
+    "pre_norm": false,
+    "src_seq_len": 32,
+    "tgt_seq_len": 32
+  },
+  "optimizer": {
+    "type": "Adam",
+    "lr": 0.0001,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-09,
+    "schedule": "constant"
+  },
+  "loss": {
+    "type": "CrossEntropyLoss",
+    "label_smoothing": 0.1,
+    "ignore_index": "[PAD]"
+  },
+  "training": {
+    "batch_size": 10,
+    "shuffle": true,
+    "seed": 0,
+    "eval_every": 50,
+    "log_every": 5,
+    "steps": 2000
+  }
+}

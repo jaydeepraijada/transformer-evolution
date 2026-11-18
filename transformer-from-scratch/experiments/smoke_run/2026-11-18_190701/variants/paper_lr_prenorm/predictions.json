@@ -1,0 +1,702 @@
+[
+ {
+  "i": 0,
+  "src": "Source: Project Gutenberg",
+  "tgt": "Source: www.liberliber.it/Audiobook available here",
+  "pred": "Source : . liberliber . it / available here",
+  "exact_match": true
+ },
+ {
+  "i": 1,
+  "src": "There was no possibility of taking a walk that day.",
+  "tgt": "I. In quel giorno era impossibile passeggiare.",
+  "pred": "I . In quel giorno era impossibile passeggiare .",
+  "exact_match": true
+ },
+ {
+  "i": 2,
+  "src": "\"What does Bessie say I have done?\" I asked.",
+  "tgt": "— Che cosa vi ha detto Bessie di nuovo sul conto mio? — domandai.",
+  "pred": "— Che cosa vi ha detto Bessie di nuovo sul conto mio ? — domandai .",
+  "exact_match": true
+ },
+ {
+  "i": 3,
+  "src": "\"Jane, I don't like cavillers or questioners; besides, there is something truly forbidding in a child taking up her elders in that manner.",
+  "tgt": "— Jane, non mi piace di essere interrogata. Sta male, del resto, che una bimba tratti così i suoi superiori.",
+  "pred": "— Jane , non mi piace di essere interrogata . Sta male , del resto , che una bimba tratti così i suoi superiori .",
+  "exact_match": true
+ },
+ {
+  "i": 4,
+  "src": "Be seated somewhere; and until you can speak pleasantly, remain silent.\"",
+  "tgt": "Sedetevi in qualche posto e state buona fino a quando non saprete parlare ragionevolmente.",
+  "pred": "Sedetevi in qualche posto e state buona fino a quando non saprete parlare ragionevolmente .",
+  "exact_match": true
+ },
+ {
+  "i": 5,
+  "src": "A breakfast-room adjoined the drawing-room, I slipped in there.",
+  "tgt": "Una piccola sala da pranzo metteva nel salotto, andai in quella pian piano.",
+  "pred": "Una piccola sala da pranzo metteva nel salotto , andai in quella pian piano .",
+  "exact_match": true
+ },
+ {
+  "i": 6,
+  "src": "It contained a bookcase: I soon possessed myself of a volume, taking care that it should be one stored with pictures.",
+  "tgt": "Vi era una biblioteca e io m'impossessai di un libro, cercando che fosse ornato d'incisioni.",
+  "pred": "Vi era una biblioteca e io m ' impossessai di un libro , cercando che fosse ornato d ' incisioni .",
+  "exact_match": true
+ },
+ {
+  "i": 7,
+  "src": "The two ships becalmed on a torpid sea, I believed to be marine phantoms.",
+  "tgt": "Le due navi, in quel mare immobili, mi parevano due fantasmi marini.",
+  "pred": "Le due navi , in quel mare immobili , mi parevano due fantasmi marini .",
+  "exact_match": true
+ },
+ {
+  "i": 8,
+  "src": "With Bewick on my knee, I was then happy: happy at least in my way.",
+  "tgt": "Così, avendo Borwick sulle ginocchia, ero felice, felice a modo mio.",
+  "pred": "Così , avendo sulle ginocchia , ero felice , felice a modo mio .",
+  "exact_match": true
+ },
+ {
+  "i": 9,
+  "src": "I feared nothing but interruption, and that came too soon.",
+  "tgt": "Temevo soltanto una interruzione, che non tardò.",
+  "pred": "Temevo soltanto una interruzione , che non tardò .",
+  "exact_match": true
+ },
+ {
+  "i": 10,
+  "src": "The breakfast- room door opened.",
+  "tgt": "La porta della stanza da pranzo fu vivamente aperta.",
+  "pred": "La porta della stanza da pranzo fu vivamente aperta .",
+  "exact_match": true
+ },
+ {
+  "i": 11,
+  "src": "\"Boh! Madam Mope!\" cried the voice of John Reed; then he paused: he found the room apparently empty.",
+  "tgt": "— Oh! signora scontrosa, — gridò John Reed.",
+  "pred": "— Oh ! signora scontrosa , — gridò John Reed .",
+  "exact_match": true
+ },
+ {
+  "i": 12,
+  "src": "\"Where the dickens is she!\" he continued. \"Lizzy!",
+  "tgt": "Poi tacque, perché gli parve che la stanza fosse deserta. — Per bacco, dov'è?",
+  "pred": "Poi tacque , perché gli parve che la stanza fosse deserta . — Per , dov ' è ?",
+  "exact_match": true
+ },
+ {
+  "i": 13,
+  "src": "Georgy! (calling to his sisters) Joan is not here: tell mama she is run out into the rain--bad animal!\"",
+  "tgt": "Liszy, Giorgy, — continuò egli volgendosi alle sorelle, — dite alla mamma che la cattiva bestia è andata a correre in giardino con questa pioggia!",
+  "pred": ", , — continuò egli volgendosi alle sorelle , — dite alla mamma che la cattiva bestia è andata a correre in giardino con questa pioggia !",
+  "exact_match": true
+ },
+ {
+  "i": 14,
+  "src": "\"She is in the window-seat, to be sure, Jack.\"",
+  "tgt": "— Ella è certamente nel vano della finestra!",
+  "pred": "— Ella è certamente nel vano della finestra !",
+  "exact_match": true
+ },
+ {
+  "i": 15,
+  "src": "And I came out immediately, for I trembled at the idea of being dragged forth by the said Jack.",
+  "tgt": "Uscii subito, perché mi sgomentavo al pensiero di esser condotta fuori dal mio nascondiglio da John.",
+  "pred": "Uscii subito , perché mi al pensiero di esser condotta fuori dal mio nascondiglio da John .",
+  "exact_match": true
+ },
+ {
+  "i": 16,
+  "src": "\"What do you want?\" I asked, with awkward diffidence.",
+  "tgt": "— Che cosa volete? — gli domandai con timidezza rispettosa.",
+  "pred": "— Che cosa volete ? — gli domandai con timidezza rispettosa .",
+  "exact_match": true
+ },
+ {
+  "i": 17,
+  "src": "\"Say, 'What do you want, Master Reed?'\" was the answer.",
+  "tgt": "— Dite: Che cosa volete, signor Reed?",
+  "pred": "— Dite : Che cosa volete , signor Reed ?",
+  "exact_match": true
+ },
+ {
+  "i": 18,
+  "src": "He gorged himself habitually at table, which made him bilious, and gave him a dim and bleared eye and flabby cheeks.",
+  "tgt": "Soleva mangiare avidamente, e ciò avevagli prodotta quella tinta biliosa, quello sguardo turbato e quelle guancie flosce.",
+  "pred": "Soleva mangiare avidamente , e ciò avevagli prodotta quella tinta , quello sguardo turbato e quelle guancie .",
+  "exact_match": true
+ },
+ {
+  "i": 19,
+  "src": "He ought now to have been at school; but his mama had taken him home for a month or two, \"on account of his delicate health.\"",
+  "tgt": "In quel tempo avrebbe dovuto trovarsi in collegio, ma sua madre avevalo tolto per un mese o due col pretesto della sua delicata salute.",
+  "pred": "In quel tempo avrebbe dovuto trovarsi in collegio , ma sua madre avevalo tolto per un mese o due col pretesto della sua delicata salute .",
+  "exact_match": true
+ },
+ {
+  "i": 20,
+  "src": "John had not much affection for his mother and sisters, and an antipathy to me.",
+  "tgt": "John non voleva molto bene né alla madre né alle sorelle.",
+  "pred": "John non voleva molto bene né alla madre né alle sorelle .",
+  "exact_match": true
+ },
+ {
+  "i": 21,
+  "src": "I wonder if he read that notion in my face; for, all at once, without speaking, he struck suddenly and strongly.",
+  "tgt": "Credo che s'accorgesse del mio pensiero, perché a un tratto si alzò senza dir parola, e mi colpì duramente.",
+  "pred": "Credo che s ' accorgesse del mio pensiero , perché a un tratto si alzò senza dir parola , e mi colpì duramente .",
+  "exact_match": true
+ },
+ {
+  "i": 22,
+  "src": "I tottered, and on regaining my equilibrium retired back a step or two from his chair.",
+  "tgt": "Barcollai e poi rimettendomi in equilibrio, mi allontanai di un passo o due dalla sua sedia.",
+  "pred": "e poi in equilibrio , mi allontanai di un passo o due dalla sua sedia .",
+  "exact_match": true
+ },
+ {
+  "i": 23,
+  "src": "\"What were you doing behind the curtain?\" he asked.",
+  "tgt": "— Che cosa facevate dietro la tenda? — mi domandò.",
+  "pred": "— Che cosa facevate dietro la tenda ? — mi domandò .",
+  "exact_match": true
+ },
+ {
+  "i": 24,
+  "src": "\"I was reading.\"",
+  "tgt": "— Leggevo.",
+  "pred": "— .",
+  "exact_match": true
+ },
+ {
+  "i": 25,
+  "src": "\"Show the book.\"",
+  "tgt": "— Fatemi vedere il libro.",
+  "pred": "— Fatemi vedere il libro .",
+  "exact_match": true
+ },
+ {
+  "i": 26,
+  "src": "I returned to the window and fetched it thence.",
+  "tgt": "— Mi diressi verso la finestra per prenderlo.",
+  "pred": "— Mi diressi verso la finestra per prenderlo .",
+  "exact_match": true
+ },
+ {
+  "i": 27,
+  "src": "Go and stand by the door, out of the way of the mirror and the windows.\"",
+  "tgt": "Andate vicino alla porta, lontano dallo specchio e dalla finestra.",
+  "pred": "Andate vicino alla porta , lontano dallo specchio e dalla finestra .",
+  "exact_match": true
+ },
+ {
+  "i": 28,
+  "src": "The cut bled, the pain was sharp: my terror had passed its climax; other feelings succeeded.",
+  "tgt": "La ferita sanguinava ed io provai un gran dolore: ma il terrore era svanito per dar luogo ad altri sentimenti.",
+  "pred": "La ferita ed io provai un gran dolore : ma il terrore era svanito per dar luogo ad altri sentimenti .",
+  "exact_match": true
+ },
+ {
+  "i": 29,
+  "src": "\"What! what!\" he cried.",
+  "tgt": "— Come!",
+  "pred": "— Come !",
+  "exact_match": true
+ },
+ {
+  "i": 30,
+  "src": "\"Did she say that to me?",
+  "tgt": "Come! — esclamò. — Dice a me forse?",
+  "pred": "Come ! — esclamò . — Dice a me forse ?",
+  "exact_match": true
+ },
+ {
+  "i": 31,
+  "src": "Did you hear her, Eliza and Georgiana?",
+  "tgt": "L'avete sentita, Eliza, Georgiana?",
+  "pred": "L ' avete sentita , Eliza , Georgiana ?",
+  "exact_match": true
+ },
+ {
+  "i": 32,
+  "src": "I really saw in him a tyrant, a murderer.",
+  "tgt": "Io vedevo realmente in lui un assassino, un tiranno.",
+  "pred": "Io vedevo realmente in lui un assassino , un .",
+  "exact_match": true
+ },
+ {
+  "i": 33,
+  "src": "I don't very well know what I did with my hands, but he called me \"Rat!",
+  "tgt": "Non so dire quello che io facessi con le mani, ma John mi chiamava: \"Talpa!",
+  "pred": "Non so dire quello che io facessi con le mani , ma John mi chiamava : \" Talpa !",
+  "exact_match": true
+ },
+ {
+  "i": 34,
+  "src": "Rat!\" and bellowed out aloud.",
+  "tgt": "Talpa!\" e continuava a insultarmi.",
+  "pred": "Talpa !\" e continuava a insultarmi .",
+  "exact_match": true
+ },
+ {
+  "i": 35,
+  "src": "We were parted: I heard the words-- \"Dear! dear!",
+  "tgt": "— Dio mio, che orrore!",
+  "pred": "— Dio mio , che orrore !",
+  "exact_match": true
+ },
+ {
+  "i": 36,
+  "src": "What a fury to fly at Master John!\"",
+  "tgt": "Percuotere il signorino John!",
+  "pred": "Percuotere il signorino John !",
+  "exact_match": true
+ },
+ {
+  "i": 37,
+  "src": "\"Did ever anybody see such a picture of passion!\"",
+  "tgt": "— Avete mai visto una rabbiosa come questa?",
+  "pred": "Avete mai visto una rabbiosa come questa ?",
+  "exact_match": false
+ },
+ {
+  "i": 38,
+  "src": "Then Mrs. Reed subjoined--",
+  "tgt": "Allora la signora Reed soggiunse:",
+  "pred": "Allora la signora Reed soggiunse :",
+  "exact_match": true
+ },
+ {
+  "i": 39,
+  "src": "\"Take her away to the red-room, and lock her in there.\"",
+  "tgt": "— Portatela nella camera rossa e chiudetevela dentro.",
+  "pred": "— Portatela nella camera rossa e dentro .",
+  "exact_match": true
+ },
+ {
+  "i": 40,
+  "src": "Four hands were immediately laid upon me, and I was borne upstairs.",
+  "tgt": "Quattro mani mi afferrarono e io fui trascinata su per le scale.",
+  "pred": "Quattro mani mi afferrarono e io fui trascinata su per le scale .",
+  "exact_match": true
+ },
+ {
+  "i": 41,
+  "src": "\"Hold her arms, Miss Abbot: she's like a mad cat.\"",
+  "tgt": "— Reggetele le mani, signorina Abbot; è come un gatto infuriato. — Vergogna!",
+  "pred": "— le mani , signorina Abbot ; è come un gatto infuriato . — Vergogna !",
+  "exact_match": true
+ },
+ {
+  "i": 42,
+  "src": "\"For shame! for shame!\" cried the lady's-maid.",
+  "tgt": "Vergogna! — esclamò la cameriera. — Che gatto arrabbiato!",
+  "pred": "Vergogna ! — esclamò la cameriera . — Che gatto arrabbiato !",
+  "exact_match": true
+ },
+ {
+  "i": 43,
+  "src": "\"What shocking conduct, Miss Eyre, to strike a young gentleman, your benefactress's son!",
+  "tgt": "Che scandalosa condotta, signorina Eyre!",
+  "pred": "Che scandalosa condotta , signorina Eyre !",
+  "exact_match": true
+ },
+ {
+  "i": 44,
+  "src": "Your young master.\"",
+  "tgt": "Percuotere il signorino, il figlio della vostra benefattrice, il vostro padroncino!",
+  "pred": "Percuotere il signorino , il figlio della vostra benefattrice , il vostro padroncino !",
+  "exact_match": true
+ },
+ {
+  "i": 45,
+  "src": "\"Master!",
+  "tgt": "— Chi è il mio padrone?",
+  "pred": "— Chi è il mio padrone ?",
+  "exact_match": true
+ },
+ {
+  "i": 46,
+  "src": "How is he my master? Am I a servant?\"",
+  "tgt": "Sono forse una serva?",
+  "pred": "Sono forse una serva ?",
+  "exact_match": true
+ },
+ {
+  "i": 47,
+  "src": "\"No; you are less than a servant, for you do nothing for your keep.",
+  "tgt": "— No, siete meno che una serva, perché non vi guadagnate il pane.",
+  "pred": "— No , siete meno che una serva , perché non vi il pane .",
+  "exact_match": true
+ },
+ {
+  "i": 48,
+  "src": "There, sit down, and think over your wickedness.\"",
+  "tgt": "Sedetevi qui e pensate alla vostra perfidia.",
+  "pred": "Sedetevi qui e pensate alla vostra perfidia .",
+  "exact_match": true
+ },
+ {
+  "i": 49,
+  "src": "\"If you don't sit still, you must be tied down,\" said Bessie.",
+  "tgt": "— Se non state ferma costì a sedere, vi legheremo, — disse Bessie.",
+  "pred": "— Se non state ferma costì a sedere , vi , — disse Bessie .",
+  "exact_match": true
+ },
+ {
+  "i": 50,
+  "src": "\"Miss Abbot, lend me your garters; she would break mine directly.\"",
+  "tgt": "— Signorina Abbot, prestatemi le vostre legaccie delle calze, perché presto avrò rotto le mie.",
+  "pred": "— Signorina Abbot , le vostre delle calze , perché presto avrò rotto le mie .",
+  "exact_match": true
+ },
+ {
+  "i": 51,
+  "src": "Miss Abbot turned to divest a stout leg of the necessary ligature.",
+  "tgt": "La signorina Abbot si affrettò a sciogliersi le calze.",
+  "pred": "La signorina Abbot si affrettò a sciogliersi le calze .",
+  "exact_match": true
+ },
+ {
+  "i": 52,
+  "src": "This preparation for bonds, and the additional ignominy it inferred, took a little of the excitement out of me.",
+  "tgt": "Questo preparativo di legatura e la vergogna che per me ne derivava, calmarono la mia agitazione.",
+  "pred": "Questo preparativo di e la vergogna che per me ne derivava , la mia agitazione .",
+  "exact_match": true
+ },
+ {
+  "i": 53,
+  "src": "\"Don't take them off,\" I cried; \"I will not stir.\"",
+  "tgt": "— Non vi sciogliete le calze, non mi muoverò.",
+  "pred": "— Non vi le calze , non mi .",
+  "exact_match": true
+ },
+ {
+  "i": 54,
+  "src": "In guarantee whereof, I attached myself to my seat by my hands.",
+  "tgt": "E per dare una prova di ciò che asserivo, mi avviticchiai alla sedia.",
+  "pred": "E per dare una prova di ciò che , mi alla sedia .",
+  "exact_match": true
+ },
+ {
+  "i": 55,
+  "src": "\"She never did so before,\" at last said Bessie, turning to the Abigail.",
+  "tgt": "— Non era mai giunta a tanto, — disse Bessie alla fine, volgendosi verso Abigail Abbot.",
+  "pred": "— Non era mai giunta a tanto , — disse Bessie alla fine , volgendosi verso Abbot .",
+  "exact_match": true
+ },
+ {
+  "i": 56,
+  "src": "I had nothing to say to these words: they were not new to me: my very first recollections of existence included hints of the same kind.",
+  "tgt": "Non avevo nulla da rispondere a quelle parole, che non sonavano nuove al mio orecchio; i più antichi ricordi della mia esistenza si riferivano a parole simili.",
+  "pred": "Non avevo nulla da rispondere a quelle parole , che non sonavano nuove al mio orecchio ; i più antichi ricordi della mia esistenza si riferivano a parole simili .",
+  "exact_match": true
+ },
+ {
+  "i": 57,
+  "src": "This reproach of my dependence had become a vague sing-song in my ear: very painful and crushing, but only half intelligible.",
+  "tgt": "Il rimprovero per il mio stato di dipendenza era divenuto per i miei orecchi un sono vago, penoso e opprimente, ma a metà inintelligibile.",
+  "pred": "Il rimprovero per il mio stato di dipendenza era divenuto per i miei orecchi un sono vago , penoso e opprimente , ma a metà inintelligibile .",
+  "exact_match": true
+ },
+ {
+  "i": 58,
+  "src": "Come, Bessie, we will leave her: I wouldn't have her heart for anything.",
+  "tgt": "Venite, Bessie, lasciamola. Non vorrei davvero avere un cuore come il suo.",
+  "pred": "Venite , Bessie , . Non vorrei davvero avere un cuore come il suo .",
+  "exact_match": true
+ },
+ {
+  "i": 59,
+  "src": "They went, shutting the door, and locking it behind them.",
+  "tgt": "Le due donne se ne andarono sbatacchiando la porta e poi la chiusero a chiave.",
+  "pred": "Le due donne se ne andarono la porta e poi la chiusero a chiave .",
+  "exact_match": true
+ },
+ {
+  "i": 60,
+  "src": "I was not quite sure whether they had locked the door; and when I dared move, I got up and went to see.",
+  "tgt": "Non ero sicura se la porta fosse stata chiusa, e appena osai muovermi, andai a vedere.",
+  "pred": "Non ero sicura se la porta fosse stata chiusa , e appena osai muovermi , andai a vedere .",
+  "exact_match": true
+ },
+ {
+  "i": 61,
+  "src": "Alas! yes: no jail was ever more secure.",
+  "tgt": "Ohimè! sì; nessun prigioniero era stato mai meglio rinchiuso.",
+  "pred": "! sì ; nessun prigioniero era stato mai meglio rinchiuso .",
+  "exact_match": true
+ },
+ {
+  "i": 62,
+  "src": "Returning, I had to cross before the looking- glass; my fascinated glance involuntarily explored the depth it revealed.",
+  "tgt": "Nel ripassare davanti allo specchio, il mio sguardo affascinato su quello involontariamente si posò esplorandone la profondità.",
+  "pred": "Nel ripassare davanti allo specchio , il mio sguardo affascinato su quello involontariamente si posò la profondità .",
+  "exact_match": true
+ },
+ {
+  "i": 63,
+  "src": "I returned to my stool.",
+  "tgt": "Tornai all'ottomana.",
+  "pred": "Tornai all ' ottomana .",
+  "exact_match": true
+ },
+ {
+  "i": 64,
+  "src": "Why was I always suffering, always browbeaten, always accused, for ever condemned?",
+  "tgt": "Perché dovevo sempre soffrire? Perché ero sempre maltrattata, sempre condannata, sempre punita?",
+  "pred": "Perché dovevo sempre soffrire ? Perché ero sempre , sempre condannata , sempre punita ?",
+  "exact_match": true
+ },
+ {
+  "i": 65,
+  "src": "Why could I never please?",
+  "tgt": "Perché non piacevo a nessuno?",
+  "pred": "Perché non a nessuno ?",
+  "exact_match": true
+ },
+ {
+  "i": 66,
+  "src": "Why was it useless to try to win any one's favour?",
+  "tgt": "Perché ogni tentativo di amicarmi un cuore era un tentativo inutile?",
+  "pred": "Perché ogni tentativo di un cuore era un tentativo inutile ?",
+  "exact_match": true
+ },
+ {
+  "i": 67,
+  "src": "Her beauty, her pink cheeks and golden curls, seemed to give delight to all who looked at her, and to purchase indemnity for every fault.",
+  "tgt": "La sua bellezza, le sue guance rosee e i suoi ricci d'oro, pareva che riempissero di gioia quanti la vedevano e facessero dimenticarne i difetti.",
+  "pred": "La sua bellezza , le sue guance rosee e i suoi ricci d ' oro , pareva che di gioia quanti la vedevano e facessero i difetti .",
+  "exact_match": true
+ },
+ {
+  "i": 68,
+  "src": "What a consternation of soul was mine that dreary afternoon!",
+  "tgt": "Quale costernazione erasi insinuata nell'anima mia in quel triste pomeriggio!",
+  "pred": "Quale costernazione erasi insinuata nell ' anima mia in quel triste pomeriggio !",
+  "exact_match": true
+ },
+ {
+  "i": 69,
+  "src": "How all my brain was in tumult, and all my heart in insurrection!",
+  "tgt": "Il sangue tumultuava e il cuore era in piena ribellione.",
+  "pred": "Il sangue e il cuore era in piena ribellione .",
+  "exact_match": true
+ },
+ {
+  "i": 70,
+  "src": "Yet in what darkness, what dense ignorance, was the mental battle fought!",
+  "tgt": "E in quale oscurità, in mezzo a quale densa ignoranza combattevasi quella battaglia mentale!",
+  "pred": "E in quale oscurità , in mezzo a quale densa ignoranza quella battaglia mentale !",
+  "exact_match": true
+ },
+ {
+  "i": 71,
+  "src": "If they did not love me, in fact, as little did I love them.",
+  "tgt": "Se però non mi volevano bene, è equo dire che neppur io ne voleva a loro.",
+  "pred": "Se però non mi volevano bene , è dire che neppur io ne voleva a loro .",
+  "exact_match": true
+ },
+ {
+  "i": 72,
+  "src": "My habitual mood of humiliation, self-doubt, forlorn depression, fell damp on the embers of my decaying ire.",
+  "tgt": "La consuetudine che avevo presa di essere umile, di dubitare di me stessa, di essere repressa smorzò la mia collera morente.",
+  "pred": "La consuetudine che avevo presa di essere umile , di dubitare di me stessa , di essere la mia collera morente .",
+  "exact_match": true
+ },
+ {
+  "i": 73,
+  "src": "All said I was wicked, and perhaps I might be so; what thought had I been but just conceiving of starving myself to death?",
+  "tgt": "Tutti erano cattivi e forse ero cattiva anch'io: non avevo forse concepita l'idea di lasciarmi morir di fame?",
+  "pred": "Tutti erano cattivi e forse ero cattiva anch ' io : non avevo forse concepita l ' idea di lasciarmi morir di fame ?",
+  "exact_match": true
+ },
+ {
+  "i": 74,
+  "src": "That certainly was a crime: and was I fit to die?",
+  "tgt": "Quello era certo un crimine; ero forse atta a morire?",
+  "pred": "Quello era certo un crimine ; ero forse atta a morire ?",
+  "exact_match": true
+ },
+ {
+  "i": 75,
+  "src": "Or was the vault under the chancel of Gateshead Church an inviting bourne?",
+  "tgt": "Oppure la volta sotto la cappella di Gateshead era un soggiorno attraente?",
+  "pred": "Oppure la volta sotto la cappella di Gateshead era un soggiorno attraente ?",
+  "exact_match": true
+ },
+ {
+  "i": 76,
+  "src": "A singular notion dawned upon me.",
+  "tgt": "Un'idea singolare s'impossessò di me.",
+  "pred": "Un ' idea singolare s ' impossessò di me .",
+  "exact_match": true
+ },
+ {
+  "i": 77,
+  "src": "Was it, I asked myself, a ray from the moon penetrating some aperture in the blind?",
+  "tgt": "Non è forse, domandai a me stessa, un raggio di luna che traversa le persiane?",
+  "pred": "Non è forse , domandai a me stessa , un raggio di luna che traversa le persiane ?",
+  "exact_match": true
+ },
+ {
+  "i": 78,
+  "src": "No; moonlight was still, and this stirred; while I gazed, it glided up to the ceiling and quivered over my head.",
+  "tgt": "No, la luna è immobile e quella luce vacillava, e mentre io la fissava scorse sul soffitto e si fermò sulla mia testa.",
+  "pred": "No , la luna è immobile e quella luce , e mentre io la fissava scorse sul soffitto e si fermò sulla mia testa .",
+  "exact_match": true
+ },
+ {
+  "i": 79,
+  "src": "Steps came running along the outer passage; the key turned, Bessie and Abbot entered.",
+  "tgt": "Sentii un rumore di passi, la chiave girò nella toppa; Bessie e la signorina Abbot entrarono.",
+  "pred": "Sentii un rumore di passi , la chiave girò nella toppa ; Bessie e la signorina Abbot entrarono .",
+  "exact_match": true
+ },
+ {
+  "i": 80,
+  "src": "\"Miss Eyre, are you ill?\" said Bessie.",
+  "tgt": "— Signorina Eyre, vi sentite male? — domandò Bessie.",
+  "pred": "— Signorina Eyre , vi sentite male ? — domandò Bessie .",
+  "exact_match": true
+ },
+ {
+  "i": 81,
+  "src": "\"What a dreadful noise! it went quite through me!\" exclaimed Abbot.",
+  "tgt": "— Che rumore indiavolato! Son tutta spaventata, — aggiunse Abbot.",
+  "pred": "— Che rumore ! Son tutta spaventata , — aggiunse Abbot .",
+  "exact_match": true
+ },
+ {
+  "i": 82,
+  "src": "\"Take me out! Let me go into the nursery!\" was my cry.",
+  "tgt": "— Conducetemi via, lasciatemi andare nella camera dei bambini, — gridai.",
+  "pred": "— via , lasciatemi andare nella camera dei bambini , — gridai .",
+  "exact_match": true
+ },
+ {
+  "i": 83,
+  "src": "\"What for?",
+  "tgt": "— Perché?",
+  "pred": "Perché ?",
+  "exact_match": false
+ },
+ {
+  "i": 84,
+  "src": "Are you hurt?",
+  "tgt": "Siete malata?",
+  "pred": "Siete malata ?",
+  "exact_match": true
+ },
+ {
+  "i": 85,
+  "src": "Have you seen something?\" again demanded Bessie.",
+  "tgt": "Avete veduto qualcosa? — chiese di nuovo Bessie.",
+  "pred": "Avete veduto qualcosa ? Avete chiese di nuovo Bessie .",
+  "exact_match": false
+ },
+ {
+  "i": 86,
+  "src": "\"Oh! I saw a light, and I thought a ghost would come.\"",
+  "tgt": "— Ho veduto un lume e ho creduto che giungesse uno spirito.",
+  "pred": "— Ho veduto un lume e ho creduto che giungesse uno spirito .",
+  "exact_match": true
+ },
+ {
+  "i": 87,
+  "src": "I had now got hold of Bessie's hand, and she did not snatch it from me.",
+  "tgt": "Mi ero impossessata della mano di Bessie ed ella non poteva liberarsi della mia stretta.",
+  "pred": "Mi ero impossessata della mano di Bessie ed ella non poteva liberarsi della mia stretta .",
+  "exact_match": true
+ },
+ {
+  "i": 88,
+  "src": "If she had been in great pain one would have excused it, but she only wanted to bring us all here: I know her naughty tricks.\"",
+  "tgt": "Conosco le sue perfide malizie.",
+  "pred": "Conosco le sue .",
+  "exact_match": true
+ },
+ {
+  "i": 89,
+  "src": "\"Abbot and Bessie, I believe I gave orders that Jane Eyre should be left in the red-room till I came to her myself.\"",
+  "tgt": "— Abbot, Bessie, credo di aver ordinato che Jane Eyre fosse lasciata nella camera rossa, perché non era tornata in sé.",
+  "pred": "— Abbot , Bessie , credo di aver ordinato che Jane Eyre fosse lasciata nella camera rossa , perché non era tornata in sé .",
+  "exact_match": true
+ },
+ {
+  "i": 90,
+  "src": "\"Miss Jane screamed so loud, ma'am,\" pleaded Bessie.",
+  "tgt": "— Signora, la signorina Jane gridava tanto forte! — si arrischiò ad osservare Bessie.",
+  "pred": "— Signora , la signorina Jane gridava tanto forte ! — si arrischiò ad osservare Bessie .",
+  "exact_match": true
+ },
+ {
+  "i": 91,
+  "src": "\"Let her go,\" was the only answer.",
+  "tgt": "— Lasciatela stare, — rispose ella.",
+  "pred": "— Lasciatela stare , — rispose ella .",
+  "exact_match": true
+ },
+ {
+  "i": 92,
+  "src": "\"Loose Bessie's hand, child: you cannot succeed in getting out by these means, be assured.",
+  "tgt": "— Bambina, lasciate andare la mano di Bessie; con questi espedienti non otterrete nulla.",
+  "pred": "— Bambina , lasciate andare la mano di Bessie ; con questi espedienti non otterrete nulla .",
+  "exact_match": true
+ },
+ {
+  "i": 93,
+  "src": "Forgive me!",
+  "tgt": "— Oh! zia, abbiate pietà di me!",
+  "pred": "Un ' idea singolare s ' impossessò di me .",
+  "exact_match": false
+ },
+ {
+  "i": 94,
+  "src": "I cannot endure it--let me be punished some other way! I shall be killed if--\"",
+  "tgt": "Perdonatemi, punitemi in un'altra maniera, ma qui mi sento morire!",
+  "pred": "Perdonatemi , in un ' altra maniera , ma qui mi sento morire !",
+  "exact_match": true
+ },
+ {
+  "i": 95,
+  "src": "\"Silence!",
+  "tgt": "— Silenzio!",
+  "pred": "— Silenzio !",
+  "exact_match": true
+ },
+ {
+  "i": 96,
+  "src": "This violence is all most repulsive:\" and so, no doubt, she felt it.",
+  "tgt": "Questa violenza mi fa orrore, — e, senza dubbio, ella provava ciò che diceva.",
+  "pred": "Questa violenza mi fa orrore , — e , senza dubbio , ella provava ciò che diceva .",
+  "exact_match": true
+ },
+ {
+  "i": 97,
+  "src": "I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity.",
+  "tgt": "Ai suoi occhi ero una commediante precoce e vedeva sinceramente in me un complesso di passioni violente, d'ipocrisia e di doppiezza.",
+  "pred": "Ai suoi occhi ero una precoce e vedeva sinceramente in me un complesso di passioni violente , d ' ipocrisia e di .",
+  "exact_match": true
+ },
+ {
+  "i": 98,
+  "src": "I heard her sweeping away; and soon after she was gone, I suppose I had a species of fit: unconsciousness closed the scene.",
+  "tgt": "La sentii allontanarsi. Suppongo di essere stata subito colpita da un deliquio, perché non ho coscienza di ciò che avvenne dopo.",
+  "pred": "La sentii allontanarsi . Suppongo di essere stata subito colpita da un deliquio , perché non ho coscienza di ciò che avvenne dopo .",
+  "exact_match": true
+ },
+ {
+  "i": 99,
+  "src": "I rested my head against a pillow or an arm, and felt easy.",
+  "tgt": "Sentii appoggiarmi la testa su un guanciale o su un braccio, e provai un senso di benessere.",
+  "pred": "Sentii appoggiarmi la testa su un guanciale o su un braccio , e provai un senso di benessere .",
+  "exact_match": true
+ }
+]

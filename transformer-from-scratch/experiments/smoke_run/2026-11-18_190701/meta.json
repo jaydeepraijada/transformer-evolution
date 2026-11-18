@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-11-18_190701",
+  "command": "../.venv/bin/python smoke_run.py --steps 2000",
+  "argv": [
+    "smoke_run.py",
+    "--steps",
+    "2000"
+  ],
+  "steps": 2000,
+  "batch_size": 10,
+  "seed": 0,
+  "eval_every": 50,
+  "log_every": 5,
+  "label_smoothing": 0.1,
+  "label_smoothing_floor": 1.3269866140878803,
+  "device": "mps",
+  "python": "3.12.14 (main, Sep  1 2026, 14:09:38) [Clang 22.1.3 ]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "packages": {
+    "torch": "2.15.0",
+    "datasets": "5.2.0",
+    "tokenizers": "0.23.3",
+    "tensorboard": "2.21.0",
+    "matplotlib": "3.11.2",
+    "numpy": "2.5.5",
+    "tqdm": "4.70.1"
+  },
+  "git": {
+    "commit": "0af772023c3a66a37f7aa64f4ebb3ba9e94af154\n",
+    "dirty": true,
+    "status": " M transformer-from-scratch/model.py\n?? transformer-from-scratch/config.py\n?? transformer-from-scratch/dataset.py\n?? transformer-from-scratch/experiments/\n?? transformer-from-scratch/smoke_run.py\n?? transformer-from-scratch/train.py\n"
+  },
+  "data": {
+    "dataset": "Helsinki-NLP/opus_books",
+    "split": "train",
+    "lang_pair": "en-it",
+    "selection": "first 100 pairs in dataset order with 3..30 tokens on both sides",
+    "n_pairs": 100,
+    "seq_len": 32,
+    "vocab_src": 15698,
+    "vocab_tgt": 22463
+  },
+  "base_config": {
+    "batch_size": 8,
+    "num_epochs": 20,
+    "lr": 0.0001,
+    "use_paper_lr_schedule": false,
+    "warmup_steps": 4000,
+    "pre_norm": true,
+    "seq_len": 350,
+    "d_model": 512,
+    "lang_src": "en",
+    "lang_tgt": "it",
+    "model_folder": "weights",
+    "model_basename": "tmodel_",
+    "preload": null,
+    "tokenizer_file": "tokenizer_{0}.json",
+    "experiment_name": "runs/tmodel"
+  },
+  "variants": [
+    {
+      "slug": "paper",
+      "name": "paper (paper_lr + post-norm)",
+      "overrides": {
+        "use_paper_lr_schedule": true,
+        "pre_norm": false
+      }
+    },
+    {
+      "slug": "fixed_lr_postnorm",
+      "name": "fixed_lr + post-norm",
+      "overrides": {
+        "use_paper_lr_schedule": false,
+        "pre_norm": false
+      }
+    },
+    {
+      "slug": "paper_lr_prenorm",
+      "name": "paper_lr + pre-norm",
+      "overrides": {
+        "use_paper_lr_schedule": true,
+        "pre_norm": true
+      }
+    },
+    {
+      "slug": "ours",
+      "name": "fixed_lr + pre-norm (ours)",
+      "overrides": {
+        "use_paper_lr_schedule": false,
+        "pre_norm": true
+      }
+    }
+  ]
+}

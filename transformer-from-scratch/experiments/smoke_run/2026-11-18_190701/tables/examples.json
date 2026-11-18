@@ -1,0 +1,258 @@
+[
+ {
+  "variant": "Paper",
+  "pair": 0,
+  "english": "Source: Project Gutenberg",
+  "reference": "Source: www.liberliber.it/Audiobook available here",
+  "prediction": "Source : . liberliber . liberliber . it / available here",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Paper",
+  "pair": 1,
+  "english": "There was no possibility of taking a walk that day.",
+  "reference": "I. In quel giorno era impossibile passeggiare.",
+  "prediction": "I . In quel giorno era impossibile passeggiare .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Paper",
+  "pair": 2,
+  "english": "\"What does Bessie say I have done?\" I asked.",
+  "reference": "— Che cosa vi ha detto Bessie di nuovo sul conto mio? — domandai.",
+  "prediction": "— Che cosa vi ha detto Bessie di nuovo sul conto mio ? — domandai .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Paper",
+  "pair": 3,
+  "english": "\"Jane, I don't like cavillers or questioners; besides, there is something truly forbidding in a child taking up her elders in that manner.",
+  "reference": "— Jane, non mi piace di essere interrogata. Sta male, del resto, che una bimba tratti così i suoi superiori.",
+  "prediction": "— Jane , non mi piace di essere interrogata . Sta male , del resto , che mi una bimba tratti così i suoi superiori .",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Paper",
+  "pair": 4,
+  "english": "Be seated somewhere; and until you can speak pleasantly, remain silent.\"",
+  "reference": "Sedetevi in qualche posto e state buona fino a quando non saprete parlare ragionevolmente.",
+  "prediction": "Sedetevi in qualche posto e state buona fino a quando non saprete parlare ragionevolmente .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Paper",
+  "pair": 5,
+  "english": "A breakfast-room adjoined the drawing-room, I slipped in there.",
+  "reference": "Una piccola sala da pranzo metteva nel salotto, andai in quella pian piano.",
+  "prediction": "Una piccola sala da pranzo metteva nel salotto , andai in quella pian piano .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Paper",
+  "pair": 6,
+  "english": "It contained a bookcase: I soon possessed myself of a volume, taking care that it should be one stored with pictures.",
+  "reference": "Vi era una biblioteca e io m'impossessai di un libro, cercando che fosse ornato d'incisioni.",
+  "prediction": "Vi era una biblioteca e io m ' impossessai di un libro , cercando che fosse ornato d ' incisioni .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Paper",
+  "pair": 7,
+  "english": "The two ships becalmed on a torpid sea, I believed to be marine phantoms.",
+  "reference": "Le due navi, in quel mare immobili, mi parevano due fantasmi marini.",
+  "prediction": "Le due navi , in quel mare immobili , mi parevano due fantasmi marini .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Fixed LR",
+  "pair": 0,
+  "english": "Source: Project Gutenberg",
+  "reference": "Source: www.liberliber.it/Audiobook available here",
+  "prediction": "Source : . . . it / available available available here",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Fixed LR",
+  "pair": 1,
+  "english": "There was no possibility of taking a walk that day.",
+  "reference": "I. In quel giorno era impossibile passeggiare.",
+  "prediction": "I . In quel era quel passeggiare .",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Fixed LR",
+  "pair": 2,
+  "english": "\"What does Bessie say I have done?\" I asked.",
+  "reference": "— Che cosa vi ha detto Bessie di nuovo sul conto mio? — domandai.",
+  "prediction": "— Che cosa vi detto Bessie conto nuovo conto conto conto mio ? — domandai .",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Fixed LR",
+  "pair": 3,
+  "english": "\"Jane, I don't like cavillers or questioners; besides, there is something truly forbidding in a child taking up her elders in that manner.",
+  "reference": "— Jane, non mi piace di essere interrogata. Sta male, del resto, che una bimba tratti così i suoi superiori.",
+  "prediction": "— Jane , non mi piace di essere interrogata . . .",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Fixed LR",
+  "pair": 4,
+  "english": "Be seated somewhere; and until you can speak pleasantly, remain silent.\"",
+  "reference": "Sedetevi in qualche posto e state buona fino a quando non saprete parlare ragionevolmente.",
+  "prediction": "Sedetevi in posto e e state fino a non non quando non ragionevolmente .",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Fixed LR",
+  "pair": 5,
+  "english": "A breakfast-room adjoined the drawing-room, I slipped in there.",
+  "reference": "Una piccola sala da pranzo metteva nel salotto, andai in quella pian piano.",
+  "prediction": "Una piccola sala da pranzo salotto , andai , andai in quella pian piano .",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Fixed LR",
+  "pair": 6,
+  "english": "It contained a bookcase: I soon possessed myself of a volume, taking care that it should be one stored with pictures.",
+  "reference": "Vi era una biblioteca e io m'impossessai di un libro, cercando che fosse ornato d'incisioni.",
+  "prediction": "Vi era era una biblioteca e io impossessai di cercando un un che d , cercando d d d d d d d d d ornato incisioni .",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Fixed LR",
+  "pair": 7,
+  "english": "The two ships becalmed on a torpid sea, I believed to be marine phantoms.",
+  "reference": "Le due navi, in quel mare immobili, mi parevano due fantasmi marini.",
+  "prediction": "Le due navi , , in mare immobili , parevano due fantasmi fantasmi fantasmi fantasmi fantasmi fantasmi .",
+  "exact_match": "no"
+ },
+ {
+  "variant": "Pre-norm",
+  "pair": 0,
+  "english": "Source: Project Gutenberg",
+  "reference": "Source: www.liberliber.it/Audiobook available here",
+  "prediction": "Source : . liberliber . it / available here",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Pre-norm",
+  "pair": 1,
+  "english": "There was no possibility of taking a walk that day.",
+  "reference": "I. In quel giorno era impossibile passeggiare.",
+  "prediction": "I . In quel giorno era impossibile passeggiare .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Pre-norm",
+  "pair": 2,
+  "english": "\"What does Bessie say I have done?\" I asked.",
+  "reference": "— Che cosa vi ha detto Bessie di nuovo sul conto mio? — domandai.",
+  "prediction": "— Che cosa vi ha detto Bessie di nuovo sul conto mio ? — domandai .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Pre-norm",
+  "pair": 3,
+  "english": "\"Jane, I don't like cavillers or questioners; besides, there is something truly forbidding in a child taking up her elders in that manner.",
+  "reference": "— Jane, non mi piace di essere interrogata. Sta male, del resto, che una bimba tratti così i suoi superiori.",
+  "prediction": "— Jane , non mi piace di essere interrogata . Sta male , del resto , che una bimba tratti così i suoi superiori .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Pre-norm",
+  "pair": 4,
+  "english": "Be seated somewhere; and until you can speak pleasantly, remain silent.\"",
+  "reference": "Sedetevi in qualche posto e state buona fino a quando non saprete parlare ragionevolmente.",
+  "prediction": "Sedetevi in qualche posto e state buona fino a quando non saprete parlare ragionevolmente .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Pre-norm",
+  "pair": 5,
+  "english": "A breakfast-room adjoined the drawing-room, I slipped in there.",
+  "reference": "Una piccola sala da pranzo metteva nel salotto, andai in quella pian piano.",
+  "prediction": "Una piccola sala da pranzo metteva nel salotto , andai in quella pian piano .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Pre-norm",
+  "pair": 6,
+  "english": "It contained a bookcase: I soon possessed myself of a volume, taking care that it should be one stored with pictures.",
+  "reference": "Vi era una biblioteca e io m'impossessai di un libro, cercando che fosse ornato d'incisioni.",
+  "prediction": "Vi era una biblioteca e io m ' impossessai di un libro , cercando che fosse ornato d ' incisioni .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Pre-norm",
+  "pair": 7,
+  "english": "The two ships becalmed on a torpid sea, I believed to be marine phantoms.",
+  "reference": "Le due navi, in quel mare immobili, mi parevano due fantasmi marini.",
+  "prediction": "Le due navi , in quel mare immobili , mi parevano due fantasmi marini .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Ours",
+  "pair": 0,
+  "english": "Source: Project Gutenberg",
+  "reference": "Source: www.liberliber.it/Audiobook available here",
+  "prediction": "Source : . liberliber . it / available here",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Ours",
+  "pair": 1,
+  "english": "There was no possibility of taking a walk that day.",
+  "reference": "I. In quel giorno era impossibile passeggiare.",
+  "prediction": "I . In quel giorno era impossibile passeggiare .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Ours",
+  "pair": 2,
+  "english": "\"What does Bessie say I have done?\" I asked.",
+  "reference": "— Che cosa vi ha detto Bessie di nuovo sul conto mio? — domandai.",
+  "prediction": "— Che cosa vi ha detto Bessie di nuovo sul conto mio ? — domandai .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Ours",
+  "pair": 3,
+  "english": "\"Jane, I don't like cavillers or questioners; besides, there is something truly forbidding in a child taking up her elders in that manner.",
+  "reference": "— Jane, non mi piace di essere interrogata. Sta male, del resto, che una bimba tratti così i suoi superiori.",
+  "prediction": "— Jane , non mi piace di essere interrogata . Sta male , del resto , che una bimba tratti così i suoi superiori .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Ours",
+  "pair": 4,
+  "english": "Be seated somewhere; and until you can speak pleasantly, remain silent.\"",
+  "reference": "Sedetevi in qualche posto e state buona fino a quando non saprete parlare ragionevolmente.",
+  "prediction": "Sedetevi in qualche posto e state buona fino a quando non saprete parlare ragionevolmente .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Ours",
+  "pair": 5,
+  "english": "A breakfast-room adjoined the drawing-room, I slipped in there.",
+  "reference": "Una piccola sala da pranzo metteva nel salotto, andai in quella pian piano.",
+  "prediction": "Una piccola sala da pranzo metteva nel salotto , andai in quella pian piano .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Ours",
+  "pair": 6,
+  "english": "It contained a bookcase: I soon possessed myself of a volume, taking care that it should be one stored with pictures.",
+  "reference": "Vi era una biblioteca e io m'impossessai di un libro, cercando che fosse ornato d'incisioni.",
+  "prediction": "Vi era una biblioteca e io m ' impossessai di un libro , cercando che fosse ornato d ' incisioni .",
+  "exact_match": "yes"
+ },
+ {
+  "variant": "Ours",
+  "pair": 7,
+  "english": "The two ships becalmed on a torpid sea, I believed to be marine phantoms.",
+  "reference": "Le due navi, in quel mare immobili, mi parevano due fantasmi marini.",
+  "prediction": "Le due navi , in quel mare immobili , mi parevano due fantasmi marini .",
+  "exact_match": "yes"
+ }
+]

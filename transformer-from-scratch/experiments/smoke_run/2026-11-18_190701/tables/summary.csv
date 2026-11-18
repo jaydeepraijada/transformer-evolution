@@ -1,0 +1,5 @@
+variant,lr_schedule,norm,changed_from_paper,final_train_loss,final_eval_ce,final_token_acc,greedy_exact_match,n_pairs,step_ce_below_005,diverged_at,train_seconds,label_smoothing_floor,steps,n_params_m
+Paper,warmup + inverse-sqrt,post-norm,nothing (baseline),1.5445,0.16027,0.9697,72,100,,,234.0,1.327,2000,75.2
+Fixed LR,fixed 1e-4,post-norm,LR schedule,2.1273,0.81146,0.7354,19,100,,,240.4,1.327,2000,75.2
+Pre-norm,warmup + inverse-sqrt,pre-norm,norm placement,1.4044,0.08307,0.9974,96,100,,,242.8,1.327,2000,75.2
+Ours,fixed 1e-4,pre-norm,both,1.3421,0.05445,1.0,100,100,,,237.4,1.327,2000,75.2
